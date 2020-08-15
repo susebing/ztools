@@ -1,3 +1,3 @@
 # ztools
 
-# python 常用操作
+python 常用功能
